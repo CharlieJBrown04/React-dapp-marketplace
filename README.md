@@ -10,6 +10,7 @@ This is a decentralized marketplace working in the alfajores celo testnet, built
 - See the detail of a product
 - See the total products
 - recieve a reciept after a purchase
+- Sort items from newest to oldest
 
 ## Technologies used
 
