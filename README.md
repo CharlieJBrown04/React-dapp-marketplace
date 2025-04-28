@@ -24,7 +24,7 @@ This is a decentralized marketplace working in the alfajores celo testnet, built
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/fedesuarez16/React-dapp-marketplace.git`
+1. Clone the repository: `git clone https://github.com/CharlieJBrown04/React-dapp-marketplace.git`
 2. Move into react folder cd React-dapp-marketplace/packages/react-app/ 
 3. Run yarn install or npm install to install all required dependencies
 4. Start the app: `npm run dev` or `yarn run dev`
