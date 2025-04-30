@@ -3,7 +3,6 @@ require("dotenv").config({ path: ".env" });
 require("hardhat-deploy");
 const { task } = require("hardhat/config");
 require("@nomiclabs/hardhat-ethers");
-require("@typechain/hardhat");
 require("hardhat-celo");
 
 const defaultNetwork = "alfajores";
